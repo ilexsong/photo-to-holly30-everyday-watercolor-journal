@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Holly30 watercolor journal icon">
+  <rect width="512" height="512" rx="104" fill="#F7F3EA"/>
+  <path d="M139 374c67-12 136-10 222 2" fill="none" stroke="#6C4A3A" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+  <path d="M201 348c-7-48-3-103 15-169M214 245c-31-26-49-52-56-78M213 225c27-19 49-45 61-76M209 287c-34-12-61-31-80-57M210 274c35-7 66-23 92-48M207 324c-30-2-57-13-79-31M208 314c35 1 67-9 95-29" fill="none" stroke="#594137" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#7D8662" opacity=".82">
+    <ellipse cx="164" cy="177" rx="31" ry="15" transform="rotate(35 164 177)"/>
+    <ellipse cx="268" cy="159" rx="33" ry="16" transform="rotate(-40 268 159)"/>
+    <ellipse cx="144" cy="226" rx="34" ry="16" transform="rotate(26 144 226)"/>
+    <ellipse cx="291" cy="228" rx="35" ry="16" transform="rotate(-26 291 228)"/>
+    <ellipse cx="144" cy="294" rx="31" ry="15" transform="rotate(14 144 294)"/>
+    <ellipse cx="292" cy="286" rx="32" ry="15" transform="rotate(-15 292 286)"/>
+  </g>
+  <path d="M177 346c42-14 96-14 145 0l-14 52c-37 12-80 12-116 0Z" fill="#D5B77A" opacity=".72"/>
+  <path d="M178 348c44 9 100 8 144-1M192 397c34 8 79 8 116 0" fill="none" stroke="#6C4A3A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M344 118c28 5 44 21 49 48-26-2-43-18-49-48Z" fill="#C9765B" opacity=".72"/>
+  <path d="M349 122c16 8 27 19 36 34" fill="none" stroke="#6C4A3A" stroke-width="6" stroke-linecap="round"/>
+</svg>

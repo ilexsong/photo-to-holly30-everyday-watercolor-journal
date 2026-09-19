@@ -1,0 +1,15 @@
+interface:
+  display_name: Holly30 — Everyday Watercolor Journal
+  short_description: Turn photos into sparse pen-and-watercolor journal pages
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+  brand_color: '#7D8662'
+  default_prompt: Use $photo-to-holly30-everyday-watercolor-journal to turn this photo
+    into a sparse everyday watercolor journal page.
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
